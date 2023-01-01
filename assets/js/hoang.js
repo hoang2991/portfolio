@@ -150,11 +150,24 @@ let products = [
         "type": "video"
     }
 ]
-portFolio = "";
-products.forEach(product => {
+let portFolio = "";
+let carouselItems = "";
+products.forEach((product, index) => {
     if (product.type == "image") {
         portFolio +=
-        "<div class='col-md-6 col-lg-4 "+ product.category +"'>"+
+        // "<div class='col-md-6 col-lg-4 "+ product.category +"' >"+
+        //     "<div class='portfolio-item'>"+
+        //         "<img src='"+ product.link +"' class='img-fluid' alt='"+ product.title +"'>"+
+        //         "<div class='content-holder'>"+
+        //             "<a class='img-popup' href='"+ product.link + "'></a>"+
+        //             "<div class='text-holder'>"+
+        //                 "<h6 class='title'>"+ product.title +"</h6>"+
+        //                 "<p class='subtitle'>Click to view!</p>"+
+        //             "</div>"+
+        //         "</div>"+
+        //     "</div>"+
+        // "</div>"
+        "<div class='col-md-6 col-lg-4 "+ product.category +"' data-target='#carouselExample' data-slide-to='" + index +"'>"+
             "<div class='portfolio-item'>"+
                 "<img src='"+ product.link +"' class='img-fluid' alt='"+ product.title +"'>"+
                 "<div class='content-holder'>"+
@@ -166,9 +179,14 @@ products.forEach(product => {
                 "</div>"+
             "</div>"+
         "</div>"
+        carouselItems += 
+            "<div class='carousel-item"+
+            (index == 0 ? " active'>" : "'>") +
+                "<img class='d-block w-100' src='"+ product.link + "'>" +
+            "</div>"
     } else if (product.type == "video") {
         portFolio += 
-        "<div class='col-md-6 col-lg-4 "+ product.category +"'>" +
+        "<div class='col-md-6 col-lg-4 "+ product.category +"' data-target='#carouselExample' data-slide-to='" + index  +"'>" +
             "<div class='portfolio-item'>" +
                 "<iframe width='350' height='276' src='" + product.link +"' "+
                 "title='"+ product.title +"' "+
@@ -176,10 +194,20 @@ products.forEach(product => {
                 "allowfullscreen></iframe>" +
             "</div>" +
         "</div>"
+        carouselItems +=
+            "<div class='carousel-item"+
+            (index == 0 ? " active'>" : "'>") +
+                "<iframe class='iframe' src='" + product.link +"' "+
+                "title='"+ product.title +"' "+
+                "frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' " +
+                "allowfullscreen></iframe>" +
+            "</div>"
     }
 })
 
 document.getElementById("portfolio-container").innerHTML = portFolio
+document.getElementById("carousel-inner").innerHTML = carouselItems;
+
 let phone = document.getElementsByClassName("phone");
 Array.from(phone).forEach(e => {
     e.innerHTML = personalInfo.phone;
@@ -220,5 +248,9 @@ Array.from(socialLinks).forEach(e => {
         e.href = personalInfo.behance;
     }
     
+})
+
+$('#myModal').on('shown.bs.modal', function () {
+    $('#myInput').trigger('focus')
 })
 

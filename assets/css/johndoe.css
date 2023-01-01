@@ -6518,7 +6518,8 @@ a.close.disabled {
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 500px;
+    /* max-width: 500px; */
+    max-width: 1350px;
     margin: 1.75rem auto;
   }
   .modal-dialog-scrollable {
@@ -11681,4 +11682,9 @@ pre .code {
   background: #F85C70;
   display: block;
   margin-top: 10px;
+}
+
+.iframe {
+  width: 100%;
+  height: calc(100vw * 0.4);
 }
