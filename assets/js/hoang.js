@@ -192,6 +192,18 @@ let products = [
         "type": "video"
     },
     {
+        "title": "DuchessDell",
+        "link": "https://www.youtube.com/embed/bFx8B4iS6qw",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "RA HOUSE",
+        "link": "https://www.youtube.com/embed/PprD_cqOqn0",
+        "category": "web new",
+        "type": "video"
+    },
+    {
         "title": "UE4_Datasmith_GPUlightmass",
         "link": "https://www.youtube.com/embed/9u7Zs6L1VEE",
         "category": "web new",
