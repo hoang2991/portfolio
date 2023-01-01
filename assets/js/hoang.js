@@ -12,6 +12,72 @@ let personalInfo = {
 
 let products = [
     {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/acc815160199861.63af058d40a8c.png",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/1b1f01160199861.63af058d44e6e.png",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/258ccd160199861.63af058d3d5af.png",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8b1b9b160199861.63af058d3f991.png",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/6b4694160199861.63af058d39bbe.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/801aeb160199861.63af058d3e68a.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/3cf5d5160199861.63af058d41877.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d36a9a160199861.63af058d45bfc.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/693af7160199861.63af058d3c207.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/07315b160199861.63af058d43c6c.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
+        "title": "House 1408",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/28c62e160199861.63af058d3b00c.png",
+        "category": "advertising new",
+        "type": "image"
+    },
+    {
         "title": "Duchess Dell",
         "link": "assets/imgs/exterior/CT5_1.png",
         "category": "branding new",
@@ -112,6 +178,18 @@ let products = [
         "link": "assets/imgs/exterior/CT93.jpg",
         "category": "branding new",
         "type": "image"
+    },
+    {
+        "title": "HOUSE 1408 - Architectural animation - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/8sS8ZFlZyn4",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Interactive Architectural Visualization - House 1408 - UE5 lumen",
+        "link": "https://www.youtube.com/embed/VoMDyJEy1-k",
+        "category": "web new",
+        "type": "video"
     },
     {
         "title": "UE4_Datasmith_GPUlightmass",
