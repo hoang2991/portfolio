@@ -210,6 +210,18 @@ let products = [
         "type": "video"
     },
     {
+        "title": "Realtime ArchViz Interactive Apartment - UE5 - lumen",
+        "link": "https://www.youtube.com/embed/MQiYuaCZdTk",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Apartment Real-time Archviz - UE4 - GPUlightmass",
+        "link": "https://www.youtube.com/embed/BPEObMA2LPA",
+        "category": "web new",
+        "type": "video"
+    },
+    {
         "title": "LAOS VILLA - UE4Archviz",
         "link": "https://www.youtube.com/embed/Agr7VvFaLwQ",
         "category": "web new",
@@ -234,7 +246,19 @@ let products = [
         "type": "video"
     },
     {
-        "title": "Summer afternoon walk in the forest - UE5 - Lumen",
+        "title": "Unreal Engine 5 - Archviz Exterior",
+        "link": "https://www.youtube.com/embed/JtJfFlaRaKE",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Unreal Engine 5 - Archviz Exterior",
+        "link": "https://www.youtube.com/embed/DIZ4aqhH1Dc",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Butterfly - UE5 - Lumen",
         "link": "https://www.youtube.com/embed/hR_v1DPsbzY",
         "category": "web new",
         "type": "video"
