@@ -114,14 +114,38 @@ let products = [
         "type": "image"
     },
     {
-        "title": "Laos Villa",
-        "link": "assets/imgs/exterior/CT7_1.jpg",
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d6f420119237473.609983860d133.jpg",
         "category": "branding new",
         "type": "image"
     },
     {
-        "title": "Laos Villa",
-        "link": "assets/imgs/exterior/CT7_2.jpg",
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/cd2f5e119237473.609983860d853.jpg",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/ceb46f119237473.609983860f05c.jpg",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/0d774f119237473.609983860e87a.jpg",
+        "category": "branding new",
+        "type": "image"
+    },
+    {
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/134907119237473.609983860e0ab.jpg",
+        "category": "branding new",
+        "type": "image"
+    },
+     {
+        "title": "Japan Villa",
+        "link": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/33f788119237473.609983860f843.jpg",
         "category": "branding new",
         "type": "image"
     },
