@@ -79,37 +79,31 @@ let products = [
     },
     {
         "title": "Duchess Dell",
-        "link": "assets/imgs/exterior/CT5_1.png",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT5_1.png?alt=media&token=c1d682c3-fc0b-45e3-a668-ee8c30275bac",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Duchess Dell",
-        "link": "assets/imgs/exterior/CT5_2.png",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT5_2.png?alt=media&token=ea636fff-b423-4b39-a1ad-6a88244f810a",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Duchess Dell",
-        "link": "assets/imgs/exterior/CT5_3.png",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT5_3.png?alt=media&token=6664d75d-d9ee-4de3-acde-83796ea19f1f",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Kavila",
-        "link": "assets/imgs/exterior/CT6_1.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT6_1.jpg?alt=media&token=2df9bcc3-577b-4f0b-8b42-c948acd7a523",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Kavila",
-        "link": "assets/imgs/exterior/CT6_2.jpg",
-        "category": "branding new",
-        "type": "image"
-    },
-    {
-        "title": "Kavila",
-        "link": "assets/imgs/exterior/CT6_2.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT6_2.jpg?alt=media&token=832a91ca-41a4-483f-973c-5b147a9b2e60",
         "category": "branding new",
         "type": "image"
     },
