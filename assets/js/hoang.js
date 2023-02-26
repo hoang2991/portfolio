@@ -197,90 +197,90 @@ let products = [
         "category": "branding new",
         "type": "image"
     },
-    // {
-    //     "title": "HOUSE 1408 - Architectural animation - UE5 - Lumen",
-    //     "link": "https://www.youtube.com/embed/8sS8ZFlZyn4",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Interactive Architectural Visualization - House 1408 - UE5 lumen",
-    //     "link": "https://www.youtube.com/embed/VoMDyJEy1-k",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "DuchessDell",
-    //     "link": "https://www.youtube.com/embed/bFx8B4iS6qw",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "RA HOUSE",
-    //     "link": "https://www.youtube.com/embed/PprD_cqOqn0",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "UE4_Datasmith_GPUlightmass",
-    //     "link": "https://www.youtube.com/embed/9u7Zs6L1VEE",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Realtime ArchViz Interactive Apartment - UE5 - lumen",
-    //     "link": "https://www.youtube.com/embed/MQiYuaCZdTk",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Apartment Real-time Archviz - UE4 - GPUlightmass",
-    //     "link": "https://www.youtube.com/embed/BPEObMA2LPA",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "LAOS VILLA - UE4Archviz",
-    //     "link": "https://www.youtube.com/embed/Agr7VvFaLwQ",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Apartment Real-time Archviz - UE5 - Lumen",
-    //     "link": "https://www.youtube.com/embed/KWiBrtacuoA",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Small walking path - UE5 - Lumen",
-    //     "link": "https://www.youtube.com/embed/Xb21xVQAdS4",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Summer afternoon walk in the forest - UE5 - Lumen",
-    //     "link": "https://www.youtube.com/embed/nCQ5JSaWKEY",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Unreal Engine 5 - Archviz Exterior",
-    //     "link": "https://www.youtube.com/embed/JtJfFlaRaKE",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Unreal Engine 5 - Archviz Exterior",
-    //     "link": "https://www.youtube.com/embed/DIZ4aqhH1Dc",
-    //     "category": "web new",
-    //     "type": "video"
-    // },
-    // {
-    //     "title": "Butterfly - UE5 - Lumen",
-    //     "link": "https://www.youtube.com/embed/hR_v1DPsbzY",
-    //     "category": "web new",
-    //     "type": "video"
-    // }
+    {
+        "title": "HOUSE 1408 - Architectural animation - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/8sS8ZFlZyn4",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Interactive Architectural Visualization - House 1408 - UE5 lumen",
+        "link": "https://www.youtube.com/embed/VoMDyJEy1-k",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "DuchessDell",
+        "link": "https://www.youtube.com/embed/bFx8B4iS6qw",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "RA HOUSE",
+        "link": "https://www.youtube.com/embed/PprD_cqOqn0",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "UE4_Datasmith_GPUlightmass",
+        "link": "https://www.youtube.com/embed/9u7Zs6L1VEE",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Realtime ArchViz Interactive Apartment - UE5 - lumen",
+        "link": "https://www.youtube.com/embed/MQiYuaCZdTk",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Apartment Real-time Archviz - UE4 - GPUlightmass",
+        "link": "https://www.youtube.com/embed/BPEObMA2LPA",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "LAOS VILLA - UE4Archviz",
+        "link": "https://www.youtube.com/embed/Agr7VvFaLwQ",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Apartment Real-time Archviz - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/KWiBrtacuoA",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Small walking path - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/Xb21xVQAdS4",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Summer afternoon walk in the forest - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/nCQ5JSaWKEY",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Unreal Engine 5 - Archviz Exterior",
+        "link": "https://www.youtube.com/embed/JtJfFlaRaKE",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Unreal Engine 5 - Archviz Exterior",
+        "link": "https://www.youtube.com/embed/DIZ4aqhH1Dc",
+        "category": "web new",
+        "type": "video"
+    },
+    {
+        "title": "Butterfly - UE5 - Lumen",
+        "link": "https://www.youtube.com/embed/hR_v1DPsbzY",
+        "category": "web new",
+        "type": "video"
+    }
 ]
 let portFolio = "";
 let carouselItems = "";
