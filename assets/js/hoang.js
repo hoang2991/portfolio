@@ -145,55 +145,55 @@ let products = [
     },
     {
         "title": "Apartment",
-        "link": "assets/imgs/interior/CT2.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Finterior%2FCT2.jpg?alt=media&token=fa0e2a3f-32b2-4b10-9325-662de7215084",
         "category": "advertising new",
         "type": "image"
     },
     {
         "title": "Apartment",
-        "link": "assets/imgs/interior/CT3.jpeg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Finterior%2FCT3.jpeg?alt=media&token=011c2fbe-ea9d-46fd-83b4-e7270815afcb",
         "category": "advertising new",
         "type": "image"
     },
     {
         "title": "Apartment",
-        "link": "assets/imgs/interior/CT4.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Finterior%2FCT4.jpg?alt=media&token=ae4eef82-1fc9-4aca-8f9c-207107074a6f",
         "category": "advertising new",
         "type": "image"
     },
     {
         "title": "House in forest",
-        "link": "assets/imgs/exterior/CT8.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT8.jpg?alt=media&token=1fea1b6b-0419-4483-889c-d82f961d6c34",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "House in forest",
-        "link": "assets/imgs/exterior/CT81.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT81.jpg?alt=media&token=b7f91c38-d633-484f-aec5-6d96894f073f",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "House in forest",
-        "link": "assets/imgs/exterior/CT82.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT82.jpg?alt=media&token=d7328018-fa0a-4a93-95cd-01a9a98286a8",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Laos Villa",
-        "link": "assets/imgs/exterior/CT91.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT91.jpg?alt=media&token=d4ad8402-a700-4fd3-a49b-b71dc8e0b088",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Laos Villa",
-        "link": "assets/imgs/exterior/CT92.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT92.jpg?alt=media&token=72666cf6-078f-4e6d-9f95-c4156899aaec",
         "category": "branding new",
         "type": "image"
     },
     {
         "title": "Laos Villa",
-        "link": "assets/imgs/exterior/CT93.jpg",
+        "link": "https://firebasestorage.googleapis.com/v0/b/don-storage-72760.appspot.com/o/hoang-portfolio%2Fexterior%2FCT93.jpg?alt=media&token=652589b9-9c72-45dd-9493-6e10db8ec6c1",
         "category": "branding new",
         "type": "image"
     },
